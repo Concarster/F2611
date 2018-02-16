@@ -1,0 +1,27 @@
+#Tabs
+itemGroup.mainTab=GoIllusion
+itemGroup.mainBlocks=Blocks
+itemGroup.mainItems=Items
+itemGroup.mainTools=Tools
+itemGroup.mainArmors=Armors
+
+#Blocks
+tile.block_mini_iron.name=MiniBlock of Iron
+tile.block_mini_gold.name=MiniBlock of Gold
+tile.block_mini_emerald.name=MiniBlock of Emerald
+tile.block_mini_diamond.name=MiniBlock of Diamond
+
+@Items
+
+#Stick Items
+item.stick_iron.name=Iron Stick
+item.stick_gold.name=Gold Stick
+item.stick_emerald.name=Emerald Stick
+item.stick_diamond.name=Diamond Stick
+ 
+ 
+@Items Armor
+
+@Items Tools
+
+@Mesages

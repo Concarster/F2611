@@ -1,0 +1,65 @@
+{
+	"entity.centaur.ambient": {
+		"category": "entity",
+		"subtitle": "entity.centaur.ambient",
+		  "sounds": [
+			      {
+				   "name": "goillusion:entity/centaur/ambient",
+				   "stream": true
+			      }
+		        ]
+	         },
+	
+	"entity.centaur.death": {
+        "category": "entity",
+        "subtitle": "entity.centaur.death",
+          "sounds": [
+                  {
+                   "name": "goillusion:entity/centaur/death",
+                   "stream": true
+                  }
+                ]
+              },
+    
+    "entity.centaur.hurt": {
+        "category": "entity",
+        "subtitle": "entity.centaur.hurt",
+          "sounds": [
+                  {
+                   "name": "goillusion:entity/centaur/hurt",
+                   "stream": true
+                  }
+                ]
+              },
+    
+    "record.solaris": {
+        "category": "record",
+          "sounds": [
+                  {
+                   "name": "goillusion:records/solaris",
+                   "stream": true
+                  }
+                ]
+             },
+    
+	"9mm.fire": {
+		"category": "player",
+		"subtitle": "subtitles.item.goillusion:gun.fire",
+		  "sounds": [
+		          {
+			       "name":"goillusion:items/gun/9mm_fire",
+			       "stream": true
+			       }
+		         ]
+		     },
+	
+	"action.saddle": {
+	     "subtitle": "subtitles.action.goillusion:saddle",
+		   "sounds": [
+			       {
+				    "name": "minecraft:entity.horse.saddle",
+				    "type": "event"
+			       }
+		        ]
+		    }
+}
